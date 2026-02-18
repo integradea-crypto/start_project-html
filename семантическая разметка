@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="ru">
+
+<head>
+  <meta charset="utf-8">
+  <title>Семантическая разметка</title>
+</head>
+
+<body>
+  <header>
+    <h1>&quot;Шапка&quot; страницы</h1>
+  </header>
+  <nav> 
+    <p><a href="основное.html">Другая страница</a></p>
+    </nav>
+</body>
+</html>
