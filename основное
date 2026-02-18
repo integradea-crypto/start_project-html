@@ -1,0 +1,18 @@
+<!doctype html>
+
+<html lang="ru">
+  <head>
+    <title>Заголовок страницы</title>
+  </head>
+
+  <body>
+    <h1>Заголовок</h1>
+    <p>Абзац с выравниванием по левому краю</p>
+    <p style="text-align: center">Абзац с текстом по центру</p>
+    <p style="text-align: justify">Абзац с текстом по ширине страницы</p>
+    <p>Абзац 1
+    <p>Абзац 2
+    <p>Абзац 3
+      <blockquote>Длинная цитата</blockquote>
+  </body>
+</html>
