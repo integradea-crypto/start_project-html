@@ -11,7 +11,27 @@
     <h1>&quot;Шапка&quot; страницы</h1>
   </header>
   <nav> 
-    <p><a href="основное.html">Другая страница</a></p>
+    <p><a href="2-nd.html">Другая страница</a></p>
     </nav>
+  <section>
+    <h2>Заголовок раздела</h2>
+    <p>Основное содержимое</p>
+    <article>
+      <h3>Заголовок статьи</h3>
+      <p>Текст статьи.
+        <mark>Важный фрагмент текста</mark>
+      </p>
+      <figure>
+        <p><img scr="photo.jpg" alt=""></p>
+        <figcaption>Изображение</figcaption>
+      </figure>
+      <aside>
+        <p>Примечание к статье</p>
+      </aside>
+    </article>
+  </section>
+  <footer>
+    <p>&quot;Подвал&quot; станицы</p>
+  </footer>    
 </body>
 </html>
